@@ -16,7 +16,7 @@ public class AppiumLaunchTest {
         DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
         desiredCapabilities.setCapability("platformName", "android");
         desiredCapabilities.setCapability("automationName", "uiautomator2");
-        desiredCapabilities.setCapability("udid", "AI4TLJNRFM8LWWCY");
+        desiredCapabilities.setCapability("udid", "ce031713ed096c2f0c");
         desiredCapabilities.setCapability("appPackage", "com.wdiodemoapp");
         desiredCapabilities.setCapability("appActivity", "com.wdiodemoapp.MainActivity");
 
